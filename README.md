@@ -13,9 +13,7 @@
 
 
 
-# Python-Projects
-
-💻 Python Projects :
+# 💻Python-Projects
 
 • Contains Python projects from my coursework at NAIT. 
 
