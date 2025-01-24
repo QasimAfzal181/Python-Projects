@@ -56,7 +56,7 @@ Key Deliverables:
 
 ---------------------------------------------------------------------------------------
 
-5. Py to Exe:
+5. Python program to .exe file
    
 Objective:
 
