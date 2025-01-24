@@ -14,9 +14,12 @@
 
 
 # Python-Projects
-💻 Python Projects (Assignments from my coursework at NAIT):
-contains Python projects from my coursework at NAIT. These projects 
-demonstrate my understanding of various Python concepts, such as network validation, file processing, and converting Python scripts to executable files.
+
+💻 Python Projects :
+
+• Contains Python projects from my coursework at NAIT. 
+
+• These projects demonstrate my understanding of various Python concepts, such as network validation, file processing, and converting Python scripts to executable files.
 
 
 
