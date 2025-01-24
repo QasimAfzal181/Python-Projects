@@ -76,5 +76,23 @@ Key Deliverables:
 
 ---------------------------------------------------------------------------------------
 
+5. Py to Exe:
+   
+Objective:
 
+• Develop a Python program that takes one or more command line arguments, prompts the user for something, does some calculations or processing, and writes a file.
+
+•	Program must be converted to and function as an executable.
+
+Key Features:
+
+• Command-Line Arguments: Accepts input file paths and output file paths as command-line arguments.
+
+• User Interaction: Prompts the user for additional input, which modifies the content of the input file or affects calculations.
+
+• File Processing: Reads content from the input file, processes it based on user input, and writes the result to an output file.
+
+• File Writing: Includes error handling for file existence and writes content with a timestamp and system info in the header.
+
+• Executable Conversion: The Python script is converted into a standalone executable file using PyInstaller for cross-platform compatibility.
 
