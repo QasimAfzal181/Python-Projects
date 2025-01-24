@@ -1,8 +1,13 @@
 ***READ BEFORE DOWNLOADING THE FILES:**
+
 **Terms of Use**
+
 • Feel free to explore, use, and modify the code for personal or educational purposes.
+
 • You cannot claim this code as your own or redistribute it.
+
 • If you use or reference this code, please credit the original author (me).
+
 • This code is not open-source and cannot be used in commercial projects without permission.
 
 
