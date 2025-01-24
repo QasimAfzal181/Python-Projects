@@ -56,5 +56,25 @@ Key Deliverables:
 
 ---------------------------------------------------------------------------------------
 
+4. File Processing with Command-Line Arguments
+   
+Objective:
+
+ • Create a Python program to read, modify, and write file content based on command-line arguments.
+
+ • Handle file existence, default directories, and user interactions for overwriting files or creating new ones.
+
+Key Deliverables:
+
+• Python program with modular code.
+
+• Features include:
+
+• Generating file headers with system info, username, and timestamp.
+
+• Writing prefixed content to an output file with error handling.
+
+---------------------------------------------------------------------------------------
+
 
 
